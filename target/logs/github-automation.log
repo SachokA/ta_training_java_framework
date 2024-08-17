@@ -1,0 +1,28 @@
+2024-08-17 13:38:00,492 INFO pages.GoogleCloudHomePage [main] Clicking in header link pricing
+2024-08-17 13:38:00,735 INFO pages.GoogleCloudHomePage [main] Clicking in calculator pricing link
+2024-08-17 13:38:03,724 INFO pages.GoogleCloudPricingCalculatorPage [main] Clear and fill number of instances
+2024-08-17 13:38:20,407 INFO tests.BaseTest [main] Closing browser
+2024-08-17 13:39:14,780 INFO pages.GoogleCloudHomePage [main] Clicking in header link pricing
+2024-08-17 13:39:14,941 INFO pages.GoogleCloudHomePage [main] Clicking in calculator pricing link
+2024-08-17 13:39:19,289 INFO pages.GoogleCloudPricingCalculatorPage [main] Clear and fill number of instances
+2024-08-17 13:39:35,915 INFO tests.BaseTest [main] Closing browser
+2024-08-17 13:39:53,858 INFO pages.GoogleCloudHomePage [main] Clicking in header link pricing
+2024-08-17 13:39:54,010 INFO pages.GoogleCloudHomePage [main] Clicking in calculator pricing link
+2024-08-17 13:39:57,504 INFO pages.GoogleCloudPricingCalculatorPage [main] Clear and fill number of instances
+2024-08-17 13:40:13,208 INFO tests.BaseTest [main] Closing browser
+2024-08-17 13:43:08,539 INFO pages.GoogleCloudHomePage [main] Clicking in header link pricing
+2024-08-17 13:43:08,810 INFO pages.GoogleCloudHomePage [main] Clicking in calculator pricing link
+2024-08-17 13:43:12,284 INFO pages.GoogleCloudPricingCalculatorPage [main] Clear and fill number of instances
+2024-08-17 13:43:27,595 INFO tests.BaseTest [main] Closing browser
+2024-08-17 13:44:33,067 INFO pages.GoogleCloudHomePage [main] Clicking in header link pricing
+2024-08-17 13:44:33,242 INFO pages.GoogleCloudHomePage [main] Clicking in calculator pricing link
+2024-08-17 13:44:37,126 INFO pages.GoogleCloudPricingCalculatorPage [main] Clear and fill number of instances
+2024-08-17 13:44:52,116 INFO tests.BaseTest [main] Closing browser
+2024-08-17 13:45:23,506 INFO pages.GoogleCloudHomePage [main] Clicking in header link pricing
+2024-08-17 13:45:23,766 INFO pages.GoogleCloudHomePage [main] Clicking in calculator pricing link
+2024-08-17 13:45:27,422 INFO pages.GoogleCloudPricingCalculatorPage [main] Clear and fill number of instances
+2024-08-17 13:45:41,947 INFO tests.BaseTest [main] Closing browser
+2024-08-17 13:46:28,112 INFO pages.GoogleCloudHomePage [main] Clicking in header link pricing
+2024-08-17 13:46:28,316 INFO pages.GoogleCloudHomePage [main] Clicking in calculator pricing link
+2024-08-17 13:46:31,849 INFO pages.GoogleCloudPricingCalculatorPage [main] Clear and fill number of instances
+2024-08-17 13:46:47,491 INFO tests.BaseTest [main] Closing browser
