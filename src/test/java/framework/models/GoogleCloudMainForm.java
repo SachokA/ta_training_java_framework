@@ -1,4 +1,4 @@
-package frameworks.models;
+package framework.models;
 
 import java.util.Objects;
 

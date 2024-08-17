@@ -1,11 +1,11 @@
-package frameworks.utils;
+package framework.utils;
 
 import lombok.extern.log4j.Log4j2;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import static frameworks.driver.DriverUtils.takeScreenShot;
+import static framework.driver.DriverUtils.takeScreenShot;
 
 @Log4j2
 public class TestListener implements ITestListener {

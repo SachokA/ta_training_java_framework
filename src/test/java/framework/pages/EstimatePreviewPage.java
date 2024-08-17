@@ -1,6 +1,6 @@
-package frameworks.pages;
+package framework.pages;
 
-import frameworks.models.CalculatedForm;
+import framework.models.CalculatedForm;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

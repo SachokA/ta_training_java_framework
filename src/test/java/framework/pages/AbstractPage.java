@@ -1,6 +1,6 @@
-package frameworks.pages;
+package framework.pages;
 
-import frameworks.driver.DriverUtils;
+import framework.driver.DriverUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

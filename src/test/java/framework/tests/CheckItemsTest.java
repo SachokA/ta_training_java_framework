@@ -1,18 +1,15 @@
-package frameworks.tests;
+package framework.tests;
 
-import frameworks.models.CalculatedForm;
-import frameworks.pages.EstimatePreviewPage;
-import frameworks.pages.GoogleCloudHomePage;
-import frameworks.pages.GoogleCloudPricingCalculatorPage;
+import framework.models.CalculatedForm;
+import framework.pages.EstimatePreviewPage;
+import framework.pages.GoogleCloudHomePage;
+import framework.pages.GoogleCloudPricingCalculatorPage;
 import org.assertj.core.api.SoftAssertions;
-import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
 
-import java.util.List;
 import java.util.Map;
 
-import static frameworks.services.CreateCalculatedForm.completeCalculatedForm;
+import static framework.services.CreateCalculatedForm.completeCalculatedForm;
 
 public class CheckItemsTest extends BaseTest {
     private String originalWindow;

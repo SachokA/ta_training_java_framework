@@ -3,14 +3,14 @@
 <suite name="Suite1" verbose="1">
     <test name="all test">
         <classes>
-            <class name="frameworks.tests.SmokeTests"/>
-            <class name="frameworks.tests.CheckItemsTest"/>
+            <class name="framework.tests.SmokeTests"/>
+            <class name="framework.tests.CheckItemsTest"/>
         </classes>
     </test>
 
     <test name="smoke">
         <classes>
-            <class name="frameworks.tests.SmokeTests"/>
+            <class name="framework.tests.SmokeTests"/>
         </classes>
     </test>
 </suite>

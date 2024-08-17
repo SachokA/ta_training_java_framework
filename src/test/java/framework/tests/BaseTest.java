@@ -1,17 +1,16 @@
-package frameworks.tests;
+package framework.tests;
 
-import frameworks.driver.DriverUtils;
-import frameworks.driver.UrlUtils;
+import framework.driver.DriverUtils;
+import framework.driver.UrlUtils;
 
-import frameworks.utils.TestListener;
+import framework.utils.TestListener;
 import lombok.extern.log4j.Log4j2;
-import frameworks.models.CalculatedForm;
-import frameworks.models.GoogleCloudMainForm;
+import framework.models.GoogleCloudMainForm;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import frameworks.pages.GoogleCloudHomePage;
-import frameworks.services.GoogleCloudMainFormCompleting;
+import framework.pages.GoogleCloudHomePage;
+import framework.services.GoogleCloudMainFormCompleting;
 import org.testng.annotations.Listeners;
 
 @Log4j2

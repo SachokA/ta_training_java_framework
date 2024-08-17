@@ -1,10 +1,10 @@
-package frameworks.driver;
+package framework.driver;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import frameworks.utils.PropertiesUtils;
+import framework.utils.PropertiesUtils;
 
 import java.io.File;
 import java.io.IOException;

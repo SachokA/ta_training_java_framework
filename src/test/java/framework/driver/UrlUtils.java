@@ -1,6 +1,6 @@
-package frameworks.driver;
+package framework.driver;
 
-import frameworks.utils.PropertiesUtils;
+import framework.utils.PropertiesUtils;
 
 public final class UrlUtils {
     private static final String DEFAULT_URL = "https://cloud.google.com/";

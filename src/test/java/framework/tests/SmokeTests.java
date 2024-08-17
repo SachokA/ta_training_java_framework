@@ -1,13 +1,12 @@
-package frameworks.tests;
+package framework.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import frameworks.pages.EstimatePreviewPage;
-import frameworks.pages.GoogleCloudHomePage;
-import frameworks.pages.GoogleCloudPricingCalculatorPage;
+import framework.pages.EstimatePreviewPage;
+import framework.pages.GoogleCloudHomePage;
+import framework.pages.GoogleCloudPricingCalculatorPage;
 
 import java.util.List;
-import java.util.Map;
 
 public class SmokeTests extends BaseTest {
     private String originalWindow;

@@ -1,4 +1,4 @@
-package frameworks.utils;
+package framework.utils;
 
 import java.io.FileInputStream;
 import java.util.Properties;
